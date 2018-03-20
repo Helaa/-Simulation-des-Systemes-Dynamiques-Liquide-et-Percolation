@@ -10,3 +10,6 @@ Notre projet consiste en l'étude de l'évolution en fonction des générations 
 Problématique:
 Comment évlue le nombre des profs d'une université en fonction du nombre d'étudiants? 
 
+On est arrivé a avoir la premiere simulation:
+
+![https://i.imgur.com/zXtaXl5.gif](simulation 1)
