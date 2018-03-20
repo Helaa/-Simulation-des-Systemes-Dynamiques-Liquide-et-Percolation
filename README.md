@@ -12,5 +12,4 @@ Comment évlue le nombre des profs d'une université en fonction du nombre d'ét
 
 On est arrivé a avoir la premiere simulation:
 
-![https://i.imgur.com/zXtaXl5.gif]
-(simulation 1)
+![https://i.imgur.com/zXtaXl5.gif](simulation 1)
