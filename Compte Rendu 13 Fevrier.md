@@ -1,5 +1,5 @@
 
-<title> Compte rendu du Mardi 20 février 2018 </title>
+## Compte rendu du Mardi 20 février 2018 
 
 
 <p> Après avoir présenter notre porjet aux professeurs nous avons sous leurs conseils developper notre thématique 
